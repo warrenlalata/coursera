@@ -1,0 +1,58 @@
+.navbar-header button.navbar-toggle, .navbar-header span{
+	border: 1px solid black;
+}
+
+
+
+#chicken{
+	background-color: green;
+	color: white;
+	margin-bottom: 20px;
+}
+
+#beef{
+	background-color: blue;
+	color: white;
+	margin-bottom: 20px;
+}
+
+#sushi{
+	background-color: red;
+	color: white;
+	margin-bottom: 20px;
+}
+
+h1{
+	margin-bottom: 30px;
+}
+
+#menu_ul{
+
+}
+#menu_ul ul{
+	margin-top: 0;
+
+}
+#menu_ul li a{
+		color: black;
+}
+#menu_ul ul li {
+	margin: 0;
+	padding: 0;
+	background-color: gray;
+	font-size: 1.2em;
+
+}
+#menu_ul li a:hover , #menu_ul li  a:focus{
+		color: white;
+}
+
+#header-nav{
+	border-radius: 0;
+	background-color: gray;
+	border: 0;
+}
+
+#food{
+	color: black;
+}
